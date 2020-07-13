@@ -1,0 +1,13 @@
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\bin\Debug\netcoreapp3.1\7_ReverseDigits.exe
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\bin\Debug\netcoreapp3.1\7_ReverseDigits.deps.json
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\bin\Debug\netcoreapp3.1\7_ReverseDigits.runtimeconfig.json
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\bin\Debug\netcoreapp3.1\7_ReverseDigits.runtimeconfig.dev.json
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\bin\Debug\netcoreapp3.1\7_ReverseDigits.dll
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\bin\Debug\netcoreapp3.1\7_ReverseDigits.pdb
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\obj\Debug\netcoreapp3.1\7_ReverseDigits.csprojAssemblyReference.cache
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\obj\Debug\netcoreapp3.1\7_ReverseDigits.AssemblyInfoInputs.cache
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\obj\Debug\netcoreapp3.1\7_ReverseDigits.AssemblyInfo.cs
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\obj\Debug\netcoreapp3.1\7_ReverseDigits.csproj.CoreCompileInputs.cache
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\obj\Debug\netcoreapp3.1\7_ReverseDigits.dll
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\obj\Debug\netcoreapp3.1\7_ReverseDigits.pdb
+C:\Users\Kalyani\Documents\Leetcodes\7_ReverseDigits\obj\Debug\netcoreapp3.1\7_ReverseDigits.genruntimeconfig.cache

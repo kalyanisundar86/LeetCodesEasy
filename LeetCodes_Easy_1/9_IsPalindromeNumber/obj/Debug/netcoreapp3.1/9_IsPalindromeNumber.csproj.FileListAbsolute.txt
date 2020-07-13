@@ -1,0 +1,13 @@
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\bin\Debug\netcoreapp3.1\9_IsPalindromeNumber.exe
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\bin\Debug\netcoreapp3.1\9_IsPalindromeNumber.deps.json
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\bin\Debug\netcoreapp3.1\9_IsPalindromeNumber.runtimeconfig.json
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\bin\Debug\netcoreapp3.1\9_IsPalindromeNumber.runtimeconfig.dev.json
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\bin\Debug\netcoreapp3.1\9_IsPalindromeNumber.dll
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\bin\Debug\netcoreapp3.1\9_IsPalindromeNumber.pdb
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\obj\Debug\netcoreapp3.1\9_IsPalindromeNumber.csprojAssemblyReference.cache
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\obj\Debug\netcoreapp3.1\9_IsPalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\obj\Debug\netcoreapp3.1\9_IsPalindromeNumber.AssemblyInfo.cs
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\obj\Debug\netcoreapp3.1\9_IsPalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\obj\Debug\netcoreapp3.1\9_IsPalindromeNumber.dll
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\obj\Debug\netcoreapp3.1\9_IsPalindromeNumber.pdb
+C:\Users\Kalyani\Documents\Leetcodes\9_IsPalindromeNumber\obj\Debug\netcoreapp3.1\9_IsPalindromeNumber.genruntimeconfig.cache

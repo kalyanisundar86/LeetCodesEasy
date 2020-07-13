@@ -1,0 +1,13 @@
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\bin\Debug\netcoreapp3.1\20_ValidParenthesis.exe
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\bin\Debug\netcoreapp3.1\20_ValidParenthesis.deps.json
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\bin\Debug\netcoreapp3.1\20_ValidParenthesis.runtimeconfig.json
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\bin\Debug\netcoreapp3.1\20_ValidParenthesis.runtimeconfig.dev.json
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\bin\Debug\netcoreapp3.1\20_ValidParenthesis.dll
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\bin\Debug\netcoreapp3.1\20_ValidParenthesis.pdb
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\obj\Debug\netcoreapp3.1\20_ValidParenthesis.csprojAssemblyReference.cache
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\obj\Debug\netcoreapp3.1\20_ValidParenthesis.AssemblyInfoInputs.cache
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\obj\Debug\netcoreapp3.1\20_ValidParenthesis.AssemblyInfo.cs
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\obj\Debug\netcoreapp3.1\20_ValidParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\obj\Debug\netcoreapp3.1\20_ValidParenthesis.dll
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\obj\Debug\netcoreapp3.1\20_ValidParenthesis.pdb
+C:\Users\Kalyani\Documents\Leetcodes\20_ValidParenthesis\obj\Debug\netcoreapp3.1\20_ValidParenthesis.genruntimeconfig.cache
