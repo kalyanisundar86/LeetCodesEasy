@@ -1,0 +1,9 @@
+C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\LeetCodeLib\bin\Debug\netstandard2.0\LeetCodeLib.deps.json
+C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\LeetCodeLib\bin\Debug\netstandard2.0\LeetCodeLib.dll
+C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\LeetCodeLib\bin\Debug\netstandard2.0\LeetCodeLib.pdb
+C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\LeetCodeLib\obj\Debug\netstandard2.0\LeetCodeLib.csprojAssemblyReference.cache
+C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\LeetCodeLib\obj\Debug\netstandard2.0\LeetCodeLib.AssemblyInfoInputs.cache
+C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\LeetCodeLib\obj\Debug\netstandard2.0\LeetCodeLib.AssemblyInfo.cs
+C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\LeetCodeLib\obj\Debug\netstandard2.0\LeetCodeLib.csproj.CoreCompileInputs.cache
+C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\LeetCodeLib\obj\Debug\netstandard2.0\LeetCodeLib.dll
+C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\LeetCodeLib\obj\Debug\netstandard2.0\LeetCodeLib.pdb

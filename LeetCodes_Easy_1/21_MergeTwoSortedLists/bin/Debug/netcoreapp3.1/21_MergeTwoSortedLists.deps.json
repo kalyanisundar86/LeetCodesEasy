@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "21_MergeTwoSortedLists/1.0.0": {
+        "dependencies": {
+          "LeetCodeLib": "1.0.0"
+        },
+        "runtime": {
+          "21_MergeTwoSortedLists.dll": {}
+        }
+      },
+      "LeetCodeLib/1.0.0": {
+        "runtime": {
+          "LeetCodeLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "21_MergeTwoSortedLists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LeetCodeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
