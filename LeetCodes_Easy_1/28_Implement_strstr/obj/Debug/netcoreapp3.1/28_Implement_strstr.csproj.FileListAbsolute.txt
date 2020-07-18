@@ -4,6 +4,7 @@ C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\28_Implement
 C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\28_Implement_strstr\bin\Debug\netcoreapp3.1\28_Implement_strstr.runtimeconfig.dev.json
 C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\28_Implement_strstr\bin\Debug\netcoreapp3.1\28_Implement_strstr.dll
 C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\28_Implement_strstr\bin\Debug\netcoreapp3.1\28_Implement_strstr.pdb
+C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\28_Implement_strstr\obj\Debug\netcoreapp3.1\28_Implement_strstr.csprojAssemblyReference.cache
 C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\28_Implement_strstr\obj\Debug\netcoreapp3.1\28_Implement_strstr.AssemblyInfoInputs.cache
 C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\28_Implement_strstr\obj\Debug\netcoreapp3.1\28_Implement_strstr.AssemblyInfo.cs
 C:\Users\Kalyani\Documents\Leetcodes\LeetCodesEasy\LeetCodes_Easy_1\28_Implement_strstr\obj\Debug\netcoreapp3.1\28_Implement_strstr.csproj.CoreCompileInputs.cache

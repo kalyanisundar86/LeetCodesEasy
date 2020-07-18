@@ -11,8 +11,8 @@ namespace TwoSum
             int[] retindices = new int[2];
             int target = 6;// 9;
             int n = 3;// 4;
-            int[] numbers = new int[3] { 3,2,3 };
-            retindices = TwoSum(numbers, 6);
+            int[] numbers = new int[3] { 3,2,4 };
+            retindices = TwoSum1(numbers, 6);
             Console.WriteLine("Index 1 = {0}, Index 2 = {1}",retindices[0], retindices[1] );
         }
 
