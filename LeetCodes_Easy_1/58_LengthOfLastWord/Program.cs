@@ -14,6 +14,7 @@ namespace _58_LengthOfLastWord
             Example:
 
             Input: "Hello World"
+
             Output: 5
          * */
         static void Main(string[] args)
