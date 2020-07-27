@@ -12,6 +12,33 @@ namespace LeetCodeLib
             }
             list.next = node;
         }
+
+        public static ListNode Find(ListNode list, int n)
+        {
+            while (list.next != null)
+            {
+                if (list.val == n)
+                {
+                    return list;
+                }
+            }
+            return null;
+        }
+
+        public static void RemoveNodeAt(ListNode list, ListNode nodeToRemove)
+        {
+            ListNode ln = list;
+            ListNode prev = list;
+            while(ln != null)
+            {
+                if (ln == nodeToRemove)
+                {
+                    prev.next = ln.next;
+                }
+                prev = ln;
+                ln = ln.next;
+            }
+        }
     }
     public class ListNode
     {
@@ -23,4 +50,6 @@ namespace LeetCodeLib
             this.next = next;
         }
      }
+
+
 }
