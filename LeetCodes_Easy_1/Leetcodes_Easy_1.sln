@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_Climbing_Stairs", "70_Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83_RemoveDuplicatesFromSortedList", "83_RemoveDuplicatesFromSortedList\83_RemoveDuplicatesFromSortedList.csproj", "{4EEA459D-717A-4668-8F20-14D2AAAFC48A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88_Merge_Sorted_Array", "88_Merge_Sorted_Array\88_Merge_Sorted_Array.csproj", "{F9B4236E-EF6C-4330-8FAB-436F353BE4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100_Same_Tree", "100_Same_Tree\100_Same_Tree.csproj", "{D2EED3ED-6A55-4D1E-A6AC-17B604A44608}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{4EEA459D-717A-4668-8F20-14D2AAAFC48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EEA459D-717A-4668-8F20-14D2AAAFC48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EEA459D-717A-4668-8F20-14D2AAAFC48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B4236E-EF6C-4330-8FAB-436F353BE4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B4236E-EF6C-4330-8FAB-436F353BE4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B4236E-EF6C-4330-8FAB-436F353BE4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B4236E-EF6C-4330-8FAB-436F353BE4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2EED3ED-6A55-4D1E-A6AC-17B604A44608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EED3ED-6A55-4D1E-A6AC-17B604A44608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2EED3ED-6A55-4D1E-A6AC-17B604A44608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2EED3ED-6A55-4D1E-A6AC-17B604A44608}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,5 +1,6 @@
 ﻿using LeetCodeLib;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace _83_RemoveDuplicatesFromSortedList
@@ -17,7 +18,7 @@ namespace _83_RemoveDuplicatesFromSortedList
         public static ListNode DeleteDuplicates(ListNode head)
         {
             ListNode ln = head;
-            Dictionary<int, int> availValues = new Dictionary<int, int>();
+            Hashtable availValues = new Hashtable();
             while (ln != null)
             {
                 if (availValues.ContainsValue(ln.val))

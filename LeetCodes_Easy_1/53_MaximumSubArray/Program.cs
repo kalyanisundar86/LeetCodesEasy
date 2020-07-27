@@ -31,7 +31,7 @@ namespace _53_MaximumSubArray
         static void Main(string[] args)
         {
             Console.WriteLine("53. Maximum Subarray");
-            int[] nums = { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
+            int[] nums = { -1,-2 };
             Console.WriteLine("Largest subarray sum is {0}", MaxSubArray(nums).ToString());
         }
         public static int MaxSubArray(int[] nums)

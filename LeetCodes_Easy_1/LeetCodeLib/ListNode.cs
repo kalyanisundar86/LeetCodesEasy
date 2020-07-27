@@ -50,6 +50,33 @@ namespace LeetCodeLib
             this.next = next;
         }
      }
+      public class TreeNode
+      {
+          public int val;
+          public TreeNode left;
+          public TreeNode right;
+          public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null)
+          {
+            this.val = val;
+            this.left = left;
+            this.right = right;
+          }
+      }
 
+    public static class TreeNodeFunctions
+    {
+        public static void InsertNodeBefore(TreeNode nodeToInsert, TreeNode insertionNode)
+        {
+            TreeNode oldLeft = insertionNode.left;
+            insertionNode.left.right = nodeToInsert;
+            insertionNode.left = nodeToInsert;
+            nodeToInsert.left = oldLeft;
+            nodeToInsert.right = insertionNode;
+        }
+        public static bool IsSameNode(TreeNode n1, TreeNode n2)
+        {
+            return (n1.val == n2.val) ? true : false;
+        }
+    }
 
 }
