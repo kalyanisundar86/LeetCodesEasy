@@ -73,6 +73,15 @@ namespace LeetCodeLib
             nodeToInsert.left = oldLeft;
             nodeToInsert.right = insertionNode;
         }
+
+        public static void InsertNodeAfter(TreeNode nodeToInsert, TreeNode insertionNode)
+        {
+            TreeNode oldright = insertionNode.right;
+            insertionNode.right.left= nodeToInsert;
+            insertionNode.right =nodeToInsert;
+            nodeToInsert.right= oldright;
+            nodeToInsert.left = insertionNode;
+        }
         public static bool IsSameNode(TreeNode n1, TreeNode n2)
         {
             return (n1.val == n2.val) ? true : false;
